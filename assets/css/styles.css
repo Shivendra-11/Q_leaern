@@ -501,13 +501,13 @@ body.light-theme {
 .skills__box {
   display: flex;
   justify-content: center;
-  column-gap: 2.5rem;
+  column-gap: 3rem;
 }
 
 .skills__group {
   display: grid;
   align-content: flex-start;
-  row-gap: 1rem;
+  row-gap: 2rem;
 }
 
 .skills__data {
@@ -840,7 +840,7 @@ body.light-theme {
 }
 /*=============== FOOTER ===============*/
 .footer {
-  background-color: var(--first-color);
+  background-color:rgb(94, 18, 170);
 }
 
 .footer__container {
